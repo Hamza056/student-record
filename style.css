@@ -24,6 +24,13 @@ html {
   }
 }
 
+.Records th {
+  background-color: cornflowerblue;
+}
+.Records tr:nth-child(even) {
+  background-color: rgb(189, 188, 188);
+}
+
 .container {
   padding-bottom: 40%;
   padding-top: 5rem;
