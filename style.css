@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./v748-toon-61.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html {
+  font-size: 62.5%;
+}
+@media screen and (max-width: 900px) {
+  html {
+    font-size: 55%;
+  }
+}
+@media screen and (max-width: 620px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+.container {
+  padding-bottom: 40%;
+  padding-top: 5rem;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.heigh th {
+  background-color: greenyellow;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 2rem 0;
+}
+
+table {
+  max-width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 1rem 3rem;
+  font-size: 2rem;
+}
+@media screen and (max-width: 620px) {
+  th, td {
+    padding: 1rem 1.5rem;
+  }
+}
+
+.low th {
+  background-color: orangered;
+}/*# sourceMappingURL=style.css.map */
