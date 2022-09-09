@@ -152,77 +152,77 @@ const displaymv=function(mv){
        <td>${mv[0].Name}</td>
        <td>${mv[0].opMarks}</td>
        <td>${mv[0].TotalMark}</td>
-       <td>pass</td>
+       <td>${mv[0].status}</td>
    </tr>
    <tr>
        <td>${mv[1].id}</td>
        <td>${mv[1].Name}</td>
        <td>${mv[1].opMarks}</td>
        <td>${mv[1].TotalMark}</td>
-       <td>pass</td>
+       <td>${mv[1].status}</td>
    </tr>
    <tr>
        <td>${mv[2].id}</td>
        <td>${mv[2].Name}</td>
        <td>${mv[2].opMarks}</td>
        <td>${mv[2].TotalMark}</td>
-       <td>pass</td>
+       <td>${mv[2].status}</td>
    </tr>
    <tr>
    <td>${mv[3].id}</td>
    <td>${mv[3].Name}</td>
    <td>${mv[3].opMarks}</td>
    <td>${mv[3].TotalMark}</td>
-   <td>pass</td>
+   <td>${mv[3].status}</td>
   </tr>
   <tr>
   <td>${mv[4].id}</td>
   <td>${mv[4].Name}</td>
   <td>${mv[4].opMarks}</td>
   <td>${mv[4].TotalMark}</td>
-  <td>pass</td>
+  <td>${mv[4].status}</td>
 </tr>
 <tr>
 <td>${mv[5].id}</td>
 <td>${mv[5].Name}</td>
 <td>${mv[5].opMarks}</td>
 <td>${mv[5].TotalMark}</td>
-<td>pass</td>
+<td>${mv[5].status}</td>
 </tr>
 <tr>
 <td>${mv[6].id}</td>
 <td>${mv[6].Name}</td>
 <td>${mv[6].opMarks}</td>
 <td>${mv[6].TotalMark}</td>
-<td>pass</td>
+<td>${mv[6].status}</td>
 </tr>
 <tr>
 <td>${mv[7].id}</td>
 <td>${mv[7].Name}</td>
 <td>${mv[7].opMarks}</td>
 <td>${mv[7].TotalMark}</td>
-<td>pass</td>
+<td>${mv[7].status}</td>
 </tr>
 <tr>
 <td>${mv[8].id}</td>
 <td>${mv[8].Name}</td>
 <td>${mv[8].opMarks}</td>
 <td>${mv[8].TotalMark}</td>
-<td>pass</td>
+<td>${mv[8].status}</td>
 </tr>
 <tr>
 <td>${mv[9].id}</td>
 <td>${mv[9].Name}</td>
 <td>${mv[9].opMarks}</td>
 <td>${mv[9].TotalMark}</td>
-<td>pass</td>
+<td>${mv[9].status}</td>
 </tr>
 <tr>
 <td>${mv[10].id}</td>
 <td>${mv[10].Name}</td>
 <td>${mv[10].opMarks}</td>
 <td>${mv[10].TotalMark}</td>
-<td>pass</td>
+<td>${mv[10].status}</td>
 </tr>
 </table>
    </div>
