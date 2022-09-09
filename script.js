@@ -33,11 +33,13 @@ student=[
                 opMarks:145,
                 },
                 { 
-                    Name:'Rehman',
-                    id:[23], 
+                    Name:'kreem',
+                    id:[7], 
+                   
                     TotalMark:150,
+                    
                     status:'pass',
-                    opMarks:148,
+                    opMarks:28,
                     },
                 { 
                     Name:'raheem',
@@ -46,35 +48,45 @@ student=[
                     TotalMark:150,
                     
                     status:'fail',
-                    opMarks:55,
+                    opMarks:27,
                     },
                     { 
-                        Name:'kreem',
-                        id:[7], 
+                        Name:'hasan',
+                        id:[12], 
                        
                         TotalMark:150,
                         
                         status:'fail',
-                        opMarks:28,
+                        opMarks:25,
                         },
                         { 
-                            Name:'hasan',
-                            id:[12], 
+                            Name:'Arslan',
+                            id:[18], 
                            
                             TotalMark:150,
                             
-                            status:'fail',
-                            opMarks:25,
+                            status:'pass',
+                            opMarks:95,
                             },
                             { 
-                                Name:'Arslan',
-                                id:[18], 
+                                Name:'shahzaib',
+                                id:[22], 
                                
                                 TotalMark:150,
                                 
                                 status:'pass',
-                                opMarks:95,
+                                opMarks:102,
                                 },
+                { 
+                    Name:'Rehman',
+                    id:[23], 
+                    TotalMark:150,
+                    status:'pass',
+                    opMarks:148,
+                    },
+                
+                   
+                        
                                 { 
                                     Name:'suleman',
                                     id:[25], 
@@ -84,15 +96,7 @@ student=[
                                     status:'pass',
                                     opMarks:110,
                                     },
-                                    { 
-                                        Name:'shahzaib',
-                                        id:[22], 
-                                       
-                                        TotalMark:150,
-                                        
-                                        status:'pass',
-                                        opMarks:102,
-                                        },
+                                   
 ]
 
 
